@@ -27,7 +27,7 @@
     "font-awesome": "^4.7.0",
     "highcharts": "^8.0.0",
     "jquery": "^3.4.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "ng2-date-picker": "^8.0.0",
     "ngx-daterangepicker-material": "2.1.11",
     "ngx-toastr": "^10.0.4",
